@@ -1,0 +1,5 @@
+关闭所有继电器：RelayAllOFF
+匹配DMM 切换电阻指令：匹配DMM 切换电阻指令
+
+PS1电流回读：M_CUR1
+PS2电流回读：M_CUR2
